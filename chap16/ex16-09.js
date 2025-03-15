@@ -27,3 +27,4 @@ Object.defineProperties(person, {
 
 person.fullName = 'Heegun Lee'
 console.log(person);
+

@@ -15,5 +15,5 @@ console.log(person);
 
 
 Object.defineProperty(person, 'name', {
-    configurable: true
+    writable: true
 });
